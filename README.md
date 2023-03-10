@@ -1,2 +1,1 @@
-# Prediction-the-Residual-Life-time-for-Turbo-_-jet-engine-Model-NASA.
-Prediction the Residual Life time for Turbo _ jet engine ,Model NASA.
+# Regression_technique_for_TurboEngine_RUL
